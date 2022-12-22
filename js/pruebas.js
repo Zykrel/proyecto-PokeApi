@@ -12,4 +12,4 @@ cardPokemon.innerHTML = `
     </div>
 </div>`
 
-cardPokemon.appendChild(mainContainer)
+cardPokemon.appendChild()
