@@ -1,0 +1,16 @@
+.titulo {
+    text-align: center;
+    font-family: fantasy;
+    font-size: auto;
+    color: white;
+}
+
+body{
+    background-color: rgb(252, 7, 7);
+}
+
+.pokemon-block,
+.pokemon-block-back {
+  background-color: rgb(206, 205, 205);
+}
+
